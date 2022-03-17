@@ -1,2 +1,1 @@
 pyperclip==1.8.2
-google_trans_new==1.1.9
